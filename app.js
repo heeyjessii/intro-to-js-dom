@@ -18,3 +18,4 @@ console.log(idElement.innerHTML);
 idElement.innerHTML = "I have been changed";
 
 console.log(classElement[1].innerHTML);
+classElement[1].innerHTML = "I have been changed by class name and array target"
