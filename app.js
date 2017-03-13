@@ -1,1 +1,1 @@
-console.log("sanity check");
+console.log("Sanity check");
