@@ -12,3 +12,9 @@ console.log(tagName);
 // console.log(document.getElementsByClassName("use-class-method"));
 var classElement = document.getElementsByClassName("use-class-method");
 console.log(classElement);
+
+//Changing HTML Element
+console.log(idElement.innerHTML);
+idElement.innerHTML = "I have been changed";
+
+console.log(classElement[1].innerHTML);
